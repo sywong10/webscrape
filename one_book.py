@@ -20,6 +20,8 @@ print('\nsoup: {}'.format(soup))
 
 name = soup.find('div', class_='product_main')
 
+# test
+
 print('\nsoup.find: {}\n'.format(name.h1.text))
 
 price = soup.find('div', class_='product_main').p.text
