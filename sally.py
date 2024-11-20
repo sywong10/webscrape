@@ -53,7 +53,7 @@ if __name__ == '__main__':
     # k = 2
     # print(rotate(nums, k))
 
-
+# test
 #     nums=[1,1,1,3,3,4,3,2,4,2]
     nums = [1,2,3,4]
     # nums = [1,2,3,1]
